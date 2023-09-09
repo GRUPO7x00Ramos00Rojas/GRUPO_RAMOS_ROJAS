@@ -4,7 +4,7 @@
 #include <fstream>	//Librería para manipulación de archivos
 #include <vector>	//Librería para datos (buffer)
 #include <sstream>	//Librería para convertir datos
-#include <wiringPi.h> // Include the wiringPi library for GPIO access
+#include <wiringPi.h> // Librería para acceder a GPIO de Raspberry Pi
 #include <cstdlib>	//librería estándar de C++
 
 using namespace LibSerial;
