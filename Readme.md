@@ -1,2 +1,2 @@
-#Curso EIE507
+#Curso EIE507 Sistemas embedidos
 #Grupo_Ramos_Rojas# 
